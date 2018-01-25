@@ -1,0 +1,7 @@
+pandas
+jupyter
+datapackage
+jsontableschema-pandas
+tableschema-pandas
+pandas-datapackage-reader
+rfc3986==1.1.0
