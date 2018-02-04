@@ -1,5 +1,6 @@
 pandas
 jupyter
+jupyter_contrib_nbextensions
 datapackage
 jsontableschema-pandas
 tableschema-pandas
