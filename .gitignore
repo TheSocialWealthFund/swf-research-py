@@ -1,4 +1,4 @@
 .virtualenv
 data
 .ipynb_checkpoints
-.pycz
+*.pyc
