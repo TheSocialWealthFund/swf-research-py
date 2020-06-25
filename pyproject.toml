@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "swf-research-py"
+version = "0.2.0"
+description = ""
+authors = ["Ilya Scharrenbroich <ilya.j.s@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.6.1"
+pandas = "^1.0.5"
+jupyter = "^1.0.0"
+jupyter_contrib_nbextensions = "^0.5.1"
+datapackage = "^1.14.1"
+tableschema-pandas = "^1.1.0"
+pandas-datapackage-reader = "^0.14.0"
+matplotlib = "^3.2.2"
+humanize = "^2.4.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry==1.0.9"]
+build-backend = "poetry.masonry.api"
